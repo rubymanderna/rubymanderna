@@ -29,9 +29,6 @@ A project combining **Polaritonic Chemistry** and **Molecular Dynamics** to stud
 ### 💡 [pQED-sCQED](https://github.com/rubymanderna/SCQED-PCQED.git)  
 A project comparing **Parameterized** and **Self-consistent Cavity QED** approaches.   
 
-- [pQED_MDI_project](https://github.com/rubymanderna/pQED_MDI_project): A project combining Polaritonic Chemistry and Molecular Dynamics for novel control of molecular systems through light-matter hybridization. **Stars:** 0 **Language:** C++ 
-- [pQED-sCQED](https://github.com/rubymanderna/SCQED-PCQED.git): A project comparing parameterized and self-consistient Cavity quantum electrodyanics approches. **Language:** Python 
-
 ## GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rubymanderna&show_icons=true&theme=radical)
@@ -47,7 +44,7 @@ Currently, there are no blog posts available.
 
 ## Connect with Me
 <p>
-  <a href="[https://www.linkedin.com/in/rubymanderna/](https://www.linkedin.com/in/ruby-manderna-129bb0190)"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" /></a>
+  <a href="[https://www.linkedin.com/in/rubymanderna/](www.linkedin.com/in/ruby-manderna-129bb0190)"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" /></a>
   <a href="rmandern@charlotte.edu"><img src="https://img.shields.io/badge/Gmail-red?logo=gmail&logoColor=white" /></a>
 </p>
 

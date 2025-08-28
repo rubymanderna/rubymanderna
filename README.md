@@ -44,9 +44,14 @@ Currently, there are no blog posts available.
 
 ## Connect with Me
 <p>
-  <a href="[https://www.linkedin.com/in/rubymanderna/](www.linkedin.com/in/ruby-manderna-129bb0190)"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" /></a>
-  <a href="rmandern@charlotte.edu"><img src="https://img.shields.io/badge/Gmail-red?logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/ruby-manderna-129bb0190/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:rmandern@charlotte.edu">
+    <img src="https://img.shields.io/badge/Gmail-red?logo=gmail&logoColor=white" />
+  </a>
 </p>
+
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/>

@@ -1,3 +1,4 @@
+<h1 align="center">Hi 👋, I'm Ruby Manderna</h1>
 <h3 align="center"> 
   Ph.D. Candidate | Computational Chemistry | 
   <a href="https://foleylab.github.io/" title="foleylab"> Foley Lab</a>

@@ -4,7 +4,7 @@ I'm Ruby Manderna, a Ph.D. candidate in the Department of Chemistry and Nanoscal
 
 ## About Me
 
-I am based in Charlotte and currently pursuing my Ph.D. at UNC Charlotte. My research focuses on the intersection of quantum chemistry, optics, and photonics, exploring the profound effects of strong coupling between molecules and light, aiming to develop ab-initio methods for polaritonic chemistry. 
+I am based in Charlotte, completed my master's in Physica and currently pursuing my Ph.D. at UNC Charlotte. My research focuses on the intersection of quantum chemistry, optics, and photonics, exploring the profound effects of strong coupling between molecules and light, aiming to develop ab-initio methods for polaritonic chemistry. 
 
 ## Skills & Technologies
 

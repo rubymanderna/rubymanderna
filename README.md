@@ -45,10 +45,11 @@ Currently, there are no blog posts available.
 ## Connect with Me
 <p>
   <a href="https://www.linkedin.com/in/ruby-manderna-129bb0190/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-ruby--manderna--129bb0190-blue?logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:rmandern@charlotte.edu">
-    <img src="https://img.shields.io/badge/Gmail-red?logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/Email-rmandern@charlotte.edu-red?logo=gmail&logoColor=white" />
+  <a href="[https://scholar.google.com/citations?user=4XgzTW4AAAAJ&hl=en&oi=ao]">
+    <img src="https://img.shields.io/badge/Google%20Scholar-Profile-blue?logo=google-scholar&logoColor=white" />
   </a>
 </p>
 

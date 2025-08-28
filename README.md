@@ -10,7 +10,8 @@
 
 ## About Me
 
-I am based in Charlotte, completed my master's in Physics and currently pursuing Ph.D. in computational quantum Chemistry in the Department of Chemistry and Nanoscale Science at UNC Charlotte. My research focuses on the intersection of quantum chemistry, optics, and photonics, exploring the profound effects of strong coupling between molecules and light, aiming to develop ab-initio methods for polaritonic chemistry. 
+📍 I am based in Charlotte, NC. I completed my Master’s in Physics and now pursuing Ph.D. in Computational Quantum Chemistry in the Department of Chemistry and Nanoscale Science at UNC Charlotte.
+🔬 My research lies at the intersection of quantum chemistry, optics, and photonics. I explore how strong coupling between molecules and light can reshape chemical behavior, with the goal of developing ab-initio methods for advancing polaritonic chemistry.
 
 ## 🛠️ Languages and Tools
 <p>

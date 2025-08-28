@@ -21,20 +21,16 @@ I am based in Charlotte, completed my master's in Physics and currently pursuing
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rubymanderna&layout=compact&theme=radical)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=rubymanderna&theme=radical&hide_border=true)
 
 ## Top Projects
 
 - [pQED_MDI_project](https://github.com/rubymanderna/pQED_MDI_project): A project combining Polaritonic Chemistry and Molecular Dynamics for novel control of molecular systems through light-matter hybridization. **Stars:** 0 **Language:** C++ 
-- [demo_cookiecutter](https://github.com/rubymanderna/SCQED-PCQED.git): A project comparing parameterized and self-consistient Cavity quantum electrodyanics approches. **Language:** Python 
+- [pQED-sCQED](https://github.com/rubymanderna/SCQED-PCQED.git): A project comparing parameterized and self-consistient Cavity quantum electrodyanics approches. **Language:** Python 
 
 ## GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rubymanderna&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rubymanderna&layout=compact&theme=radical)
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=rubymanderna&theme=radical&hide_border=true)
 
 ### Outside Lab
 - 🏃‍♀️ Yoga, walking, hikes 

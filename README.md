@@ -1,5 +1,7 @@
-<h1 align="center">Hi 👋, I'm Ruby Manderna</h1>
-<h3 align="center"> Ph.D. Candidate | Computational Chemistry | </h3>
+<h3 align="center"> 
+  Ph.D. Candidate | Computational Chemistry | 
+  <a href="https://foleylab.github.io/" title="foleylab"> Foley Lab</a>
+</h3>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=rubymanderna&color=blueviolet)
 ![GitHub Followers](https://img.shields.io/github/followers/rubymanderna?style=social)
@@ -33,6 +35,16 @@ A project comparing **Parameterized** and **Self-consistent Cavity QED** approac
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rubymanderna&show_icons=true&theme=radical)
 
+## Connect with Me
+<p>
+  <a href="https://www.linkedin.com/in/ruby-manderna-129bb0190/">
+    <img src="https://img.shields.io/badge/LinkedIn-ruby--manderna--129bb0190-blue?logo=linkedin&logoColor=white" />
+  </a>
+  <img src="https://img.shields.io/badge/Email-rmandern@charlotte.edu-red?logo=gmail&logoColor=white" />
+  <a href="https://scholar.google.com/citations?user=4XgzTW4AAAAJ&hl=en&oi=ao">
+    <img src="https://img.shields.io/badge/Google%20Scholar-Profile-blue?logo=google-scholar&logoColor=white" />
+  </a>
+</p>
 
 ## Outside Lab
 - 🏃‍♀️ Yoga, walking, hikes 
@@ -41,17 +53,6 @@ A project comparing **Parameterized** and **Self-consistent Cavity QED** approac
 ## Latest Blog Posts
 
 Currently, there are no blog posts available.
-
-## Connect with Me
-<p>
-  <a href="https://www.linkedin.com/in/ruby-manderna-129bb0190/">
-    <img src="https://img.shields.io/badge/LinkedIn-ruby--manderna--129bb0190-blue?logo=linkedin&logoColor=white" />
-  </a>
-  <img src="https://img.shields.io/badge/Email-rmandern@charlotte.edu-red?logo=gmail&logoColor=white" />
-  <a href="[https://scholar.google.com/citations?user=4XgzTW4AAAAJ&hl=en&oi=ao]">
-    <img src="https://img.shields.io/badge/Google%20Scholar-Profile-blue?logo=google-scholar&logoColor=white" />
-  </a>
-</p>
 
 
 <p align="center">

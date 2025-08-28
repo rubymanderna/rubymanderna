@@ -1,4 +1,5 @@
-## Hi there! 👋
+<h1 align="center">Hi 👋, I'm Ruby Manderna</h1>
+<h3 align="center"> Ph.D. Candidate | Computational Chemistry | Polaritonic Science Enthusiast</h3>
 
 I'm Ruby Manderna, a Ph.D. candidate in the Department of Chemistry and Nanoscale Science at UNC Charlotte. Passionate about leveraging computational techniques to unravel complex chemical phenomena.
 
@@ -23,12 +24,6 @@ git,github,docker,html,matlab,docker,
 - **Public Repositories:** 11
 - **Followers:** 5
 - **Following:** 4
-
-## Recent Activity
-
-- Pushed to [pQED_MDI_project](https://github.com/rubymanderna/pQED_MDI_project)
-- Created [demo_cookiecutter](https://github.com/rubymanderna/demo_cookiecutter)
-- Updated [ECGR_5105_Final_Project](https://github.com/rubymanderna/ECGR_5105_Final_Project)
 
 ## Latest Blog Posts
 
